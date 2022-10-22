@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Leonardo Royal Hotel",
+        "image": "images/leonardo/1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Hotel La Mirabelle",
+        "image": "images/la-mirabelle/1.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Hotel Xenia Flensburg",
+        "image": "images/xenia/1.jpg"
+    }
+]
