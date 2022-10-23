@@ -2,16 +2,73 @@
     {
         "id": "1",
         "name": "Leonardo Royal Hotel",
-        "image": "images/leonardo/1.jpg"
+        "image": "images/leonardo/1.jpg",
+        "destination_id": "1"
     },
     {
         "id": "2",
         "name": "Hotel La Mirabelle",
-        "image": "images/la-mirabelle/1.jpg"
+        "image": "images/la-mirabelle/1.jpg",
+        "destination_id": "1"
     },
     {
         "id": "3",
         "name": "Hotel Xenia Flensburg",
-        "image": "images/xenia/1.jpg"
+        "image": "images/xenia/1.jpg",
+        "destination_id": "1"
+    },
+    {
+        "id": "4",
+        "name": "Leonardo Royal Hotel",
+        "image": "images/leonardo/2.jpg",
+        "destination_id": "2"
+    },
+    {
+        "id": "5",
+        "name": "Hotel La Mirabelle",
+        "image": "images/la-mirabelle/2.jpg",
+        "destination_id": "2"
+    },
+    {
+        "id": "6",
+        "name": "Hotel Xenia Flensburg",
+        "image": "images/xenia/2.jpg",
+        "destination_id": "2"
+    },
+    {
+        "id": "7",
+        "name": "Leonardo Royal Hotel",
+        "image": "images/leonardo/3.jpg",
+        "destination_id": "3"
+    },
+    {
+        "id": "8",
+        "name": "Hotel La Mirabelle",
+        "image": "images/la-mirabelle/3.jpg",
+        "destination_id": "3"
+    },
+    {
+        "id": "9",
+        "name": "Hotel Xenia Flensburg",
+        "image": "images/xenia/3.jpg",
+        "destination_id": "3"
+    },
+    {
+        "id": "10",
+        "name": "Leonardo Royal Hotel",
+        "image": "images/leonardo/Rectangle 28.png",
+        "destination_id": "4"
+    },
+    {
+        "id": "11",
+        "name": "Hotel La Mirabelle",
+        "image": "images/la-mirabelle/Rectangle 26.png",
+        "destination_id": "4"
+    },
+    {
+        "id": "12",
+        "name": "Hotel Xenia Flensburg",
+        "image": "images/xenia/Rectangle 27.png",
+        "destination_id": "4"
     }
 ]

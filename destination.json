@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "destination": "COX'S BAZAR",
+        "image": "./images/destinations/Rectangle 1.png",
+        "description": "Cox's Bazar, town, southeastern Bangladesh. It is situated along the Bay of Bengal about 60 miles (100 km) south of Chittagong. The town, constituted a municipality in 1869, was named for Hiram Cox, who supervised the settlement there of Arakanese refugees from conquest by Myanmar (Burma) in 1799."
+    },
+    {
+        "id": "2",
+        "destination": "SUNDARBANS",
+        "image": "./images/destinations/sundorbon.png",
+        "description": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India's Sundarbans World Heritage site inscribed in 1987."
+    },
+    {
+        "id": "3",
+        "destination": "SAJEK",
+        "image": "./images/destinations/Sajek.png",
+        "description": "Sajek is a union located in the north of Chittagong Hill Tracts. It's under Baghaichori Upazila in Rangamati hill district, it is situated 67 kilometres (42 mi) north-east from Khagrachhari town and 95 kilometres (59 mi) north from Rangamati city."
+    },
+    {
+        "id": "4",
+        "destination": "SREEMANGAL",
+        "image": "./images/destinations/Sreemongol.png",
+        "description": "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila."
+    }
+]
